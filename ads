@@ -1,34 +1,61 @@
-{
-    "ads_enabled": true,
-    "test_mode": true,
-    "active_provider": "yandex",
-    "interstitial_interval_seconds": 90,
-    "yandex_units": {
-        "banner_id": "demo-banner-yandex",
-        "interstitial_id": "demo-interstitial-yandex",
-        "rewarded_id": "demo-rewarded-yandex",
-        "native_id": "demo-native-app-yandex",
-        "app_open_id": "demo-appopenad-yandex",
-        "placements": {
-            "home_banner": true,
-            "details_interstitial": true,
-            "fun_quiz_rewarded": false,
-            "search_native": true,
-            "app_open": true
-        }
-    },
-    "applovin_units": {
-        "banner_id": "0xDEADBEEF_banner",
-        "interstitial_id": "0xDEADBEEF_interstitial",
-        "rewarded_id": "0xDEADBEEF_rewarded",
-        "native_id": "0xDEADBEEF_native",
-        "app_open_id": "0xDEADBEEF_appopen",
-        "placements": {
-            "home_banner": true,
-            "details_interstitial": true,
-            "fun_quiz_rewarded": true,
-            "search_native": true,
-            "app_open": true
-        }
-    }
-}
+  {
+      "ads_enabled": true,
+      "test_mode": true,
+      "active_provider": "yandex",
+      "interstitial_interval_seconds": 90,
+      "app_open_cooldown_seconds": 300,
+      "yandex_units": {
+          "banner_id": "R-M-DEMO-banner",
+          "interstitial_id": "R-M-DEMO-interstitial",
+          "rewarded_id": "R-M-DEMO-rewarded",
+          "native_id": "R-M-DEMO-native",
+          "app_open_id": "R-M-DEMO-appopen",
+          "home_native_interval": 4,
+          "install_interstitial_interval": 3,
+          "placements": {
+              "home_banner": true,
+              "home_native": true,
+              "categories_native": true,
+              "categories_banner": true,
+              "search_results_native": true,
+              "search_rewarded": true,
+              "details_interstitial": true,
+              "details_native": true,
+              "details_banner": true,
+              "details_retry_rewarded": true,
+              "install_click_interstitial": true,
+              "onboarding_native": true,
+              "quiz_native": true,
+              "quiz_complete_interstitial": true,
+              "fun_quiz_rewarded": true,
+              "app_open": true
+          }
+      },
+      "applovin_units": {
+          "banner_id": "0xDEADBEEF_banner",
+          "interstitial_id": "0xDEADBEEF_interstitial",
+          "rewarded_id": "0xDEADBEEF_rewarded",
+          "native_id": "0xDEADBEEF_native",
+          "app_open_id": "0xDEADBEEF_appopen",
+          "home_native_interval": 4,
+          "install_interstitial_interval": 3,
+          "placements": {
+              "home_banner": true,
+              "home_native": true,
+              "categories_native": true,
+              "categories_banner": true,
+              "search_results_native": true,
+              "search_rewarded": true,
+              "details_interstitial": true,
+              "details_native": true,
+              "details_banner": true,
+              "details_retry_rewarded": true,
+              "install_click_interstitial": true,
+              "onboarding_native": true,
+              "quiz_native": true,
+              "quiz_complete_interstitial": true,
+              "fun_quiz_rewarded": true,
+              "app_open": true
+          }
+      }
+  }
