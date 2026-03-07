@@ -5,11 +5,11 @@
       "interstitial_interval_seconds": 90,
       "app_open_cooldown_seconds": 300,
       "yandex_units": {
-          "banner_id": "R-M-DEMO-banner",
-          "interstitial_id": "R-M-DEMO-interstitial",
-          "rewarded_id": "R-M-DEMO-rewarded",
-          "native_id": "R-M-DEMO-native",
-          "app_open_id": "R-M-DEMO-appopen",
+          "banner_id": "demo-banner-yandex",
+          "interstitial_id": "demo-interstitial-yandex",
+          "rewarded_id": "demo-rewarded-yandex",
+          "native_id": "demo-native-app-yandex",
+          "app_open_id": "demo-appopenad-yandex",
           "home_native_interval": 4,
           "install_interstitial_interval": 3,
           "placements": {
