@@ -8,7 +8,7 @@
           "banner_id": "demo-banner-yandex",
           "interstitial_id": "demo-interstitial-yandex",
           "rewarded_id": "demo-rewarded-yandex",
-          "native_id": "demo-native-app-yandex",
+          "native_id": "demo-native-content-yandex",
           "app_open_id": "demo-appopenad-yandex",
           "home_native_interval": 4,
           "install_interstitial_interval": 3,
