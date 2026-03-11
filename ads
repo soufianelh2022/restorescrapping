@@ -1,15 +1,15 @@
   {
       "ads_enabled": true,
-      "test_mode": true,
+      "test_mode": false,
       "active_provider": "yandex",
       "interstitial_interval_seconds": 90,
       "app_open_cooldown_seconds": 300,
       "yandex_units": {
-          "banner_id": "demo-banner-yandex",
-          "interstitial_id": "demo-interstitial-yandex",
-          "rewarded_id": "demo-rewarded-yandex",
-          "native_id": "demo-native-content-yandex",
-          "app_open_id": "demo-appopenad-yandex",
+          "banner_id": "R-M-18802063-1",
+          "interstitial_id": "R-M-18802063-3",
+          "rewarded_id": "R-M-18802063-4",
+          "native_id": "R-M-18802063-2",
+          "app_open_id": "R-M-18802063-5",
           "home_native_interval": 4,
           "install_interstitial_interval": 3,
           "placements": {
