@@ -10,7 +10,7 @@
           "rewarded_id": "R-M-18802063-4",
           "native_id": "R-M-18802063-2",
           "app_open_id": "R-M-18802063-5",
-          "home_native_interval": 4,
+          "home_native_interval": 6,
           "install_interstitial_interval": 3,
           "placements": {
               "home_banner": true,
@@ -24,8 +24,8 @@
               "details_banner": true,
               "details_retry_rewarded": true,
               "install_click_interstitial": true,
-              "onboarding_native": true,
-              "quiz_native": true,
+              "onboarding_native": false,
+              "quiz_native": false,
               "quiz_complete_interstitial": true,
               "fun_quiz_rewarded": true,
               "app_open": true
