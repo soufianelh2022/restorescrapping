@@ -25,7 +25,7 @@
               "details_retry_rewarded": true,
               "install_click_interstitial": true,
               "onboarding_native": false,
-              "quiz_native": false,
+              "quiz_native": true,
               "quiz_complete_interstitial": true,
               "fun_quiz_rewarded": true,
               "app_open": true
