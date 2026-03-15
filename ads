@@ -10,7 +10,7 @@
           "rewarded_id": "R-M-18802063-4",
           "native_id": "R-M-18802063-2",
           "app_open_id": "R-M-18802063-5",
-          "home_native_interval": 6,
+          "home_native_interval": 4,
           "install_interstitial_interval": 3,
           "placements": {
               "home_banner": true,
