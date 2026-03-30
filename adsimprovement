@@ -1,47 +1,47 @@
 {
     "ads_enabled": true,
-    "test_mode": true,
+    "test_mode": false,
     "active_provider": "yandex",
     "interstitial_interval_seconds": 90,
     "app_open_cooldown_seconds": 300,
 
     "yandex_units": {
-        "banner_id": "demo-banner-yandex",
-        "interstitial_id": "demo-interstitial-yandex",
-        "rewarded_id": "demo-rewarded-yandex",
-        "native_id": "demo-native-yandex",
-        "app_open_id": "demo-appopen-yandex",
+        "banner_id": "R-M-18802063-1",
+        "interstitial_id": "R-M-18802063-3",
+        "rewarded_id": "R-M-18802063-4",
+        "native_id": "R-M-18802063-2",
+        "app_open_id": "R-M-18802063-5",
 
         "native_ids": {
-            "home_native": "demo-native-yandex",
-            "details_native": "demo-native-yandex",
-            "search_native": "demo-native-yandex",
-            "search_results_native": "demo-native-yandex",
-            "categories_native": "demo-native-yandex",
-            "categories_games_native": "demo-native-yandex",
-            "listing_native": "demo-native-yandex",
-            "onboarding_native": "demo-native-yandex",
-            "quiz_native": "demo-native-yandex",
-            "exit_native": "demo-native-yandex"
+            "home_native": "R-M-18802063-16",
+            "details_native": "R-M-18802063-17",
+            "search_native": "R-M-18802063-18",
+            "search_results_native": "R-M-18802063-19",
+            "categories_native": "R-M-18802063-20",
+            "categories_games_native": "R-M-18802063-21",
+            "listing_native": "R-M-18802063-22",
+            "onboarding_native": "R-M-18802063-22",
+            "quiz_native": "R-M-18802063-23",
+            "exit_native": "R-M-18802063-24"
         },
 
         "banner_ids": {
-            "home_banner": "demo-banner-yandex",
-            "details_banner": "demo-banner-yandex",
-            "categories_banner": "demo-banner-yandex",
-            "quiz_banner": "demo-banner-yandex"
+            "home_banner": "R-M-18802063-9",
+            "details_banner": "R-M-18802063-10",
+            "categories_banner": "R-M-18802063-11",
+            "quiz_banner": "R-M-18802063-12"
         },
 
         "interstitial_ids": {
-            "install_click_interstitial": "demo-interstitial-yandex",
-            "quiz_complete_interstitial": "demo-interstitial-yandex",
-            "details_interstitial": "demo-interstitial-yandex"
+            "install_click_interstitial": "R-M-18802063-6",
+            "quiz_complete_interstitial": "R-M-18802063-7",
+            "details_interstitial": "R-M-18802063-8"
         },
 
         "rewarded_ids": {
-            "search_rewarded": "demo-rewarded-yandex",
-            "details_retry_rewarded": "demo-rewarded-yandex",
-            "fun_quiz_rewarded": "demo-rewarded-yandex"
+            "search_rewarded": "R-M-18802063-13",
+            "details_retry_rewarded": "R-M-18802063-14",
+            "fun_quiz_rewarded": "R-M-18802063-15"
         },
 
         "home_native_interval": 4,
@@ -97,18 +97,18 @@
             "categories_banner": true,
             "search_native": true,
             "search_results_native": true,
-            "search_rewarded": false,
+            "search_rewarded": true,
             "details_interstitial": true,
             "details_native": true,
             "details_banner": true,
-            "details_retry_rewarded": false,
+            "details_retry_rewarded": true,
             "listing_native": true,
             "install_click_interstitial": true,
             "onboarding_native": true,
             "quiz_native": true,
             "quiz_banner": true,
             "quiz_complete_interstitial": true,
-            "fun_quiz_rewarded": false,
+            "fun_quiz_rewarded": true,
             "app_open": true,
             "exit_native": true
         }
