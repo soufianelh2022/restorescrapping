@@ -49,7 +49,7 @@
 
     "placements": {
       "home_banner": false,
-      "home_native": true,
+      "home_native": false,
       "home_fixed_native": true,
       "categories_native": true,
       "categories_games_native": true,
