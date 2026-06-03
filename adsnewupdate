@@ -33,9 +33,10 @@
       "quiz_banner": "R-M-18802063-12"
     },
     "interstitial_ids": {
-      "install_click_interstitial": "R-M-18802063-6",
-      "quiz_complete_interstitial": "R-M-18802063-7,
-      "details_interstitial": "R-M-18802063-8
+      interstitial_ids": {
+  "install_click_interstitial": "R-M-18802063-6",
+  "quiz_complete_interstitial": "R-M-18802063-7",
+  "details_interstitial": "R-M-18802063-8"
     },
     "rewarded_ids": {
       "search_rewarded": "R-M-18802063-13",
