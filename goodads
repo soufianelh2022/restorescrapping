@@ -52,8 +52,8 @@
     "search_rewarded_interval": 2,
 
     "placements": {
-      "home_banner": false,
-      "home_native": false,
+      "home_banner": true,
+      "home_native": true,
       "home_fixed_native": true,
       "categories_native": true,
       "categories_games_native": true,
