@@ -1,6 +1,6 @@
 {
   "config_version": "2026-06-05-yandex-real-native-fixed",
-  "ads_enabled": true,
+  "ads_enabled": false,
   "test_mode": true,
   "active_provider": "yandex",
   "interstitial_interval_seconds": 30,
