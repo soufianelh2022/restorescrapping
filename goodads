@@ -1,5 +1,5 @@
 {
-  "config_version": "2026-06-02-home-fixed-native-demo",
+  "config_version": "2026-06-05-yandex-real-native-fixed",
   "ads_enabled": true,
   "test_mode": false,
   "active_provider": "yandex",
@@ -11,10 +11,9 @@
     "rewarded_id": "R-M-18802063-4",
     "native_id": "R-M-18802063-2",
     "app_open_id": "R-M-18802063-5",
-
     "native_ids": {
       "home_native": "R-M-18802063-2",
-      "home_fixed_native": "R-M-18802063-2,
+      "home_fixed_native": "R-M-18802063-2",
       "details_native": "R-M-18802063-2",
       "search_native": "R-M-18802063-2",
       "search_results_native": "R-M-18802063-2",
@@ -33,21 +32,18 @@
       "quiz_banner": "R-M-18802063-12"
     },
     "interstitial_ids": {
-      interstitial_ids": {
-  "install_click_interstitial": "R-M-18802063-6",
-  "quiz_complete_interstitial": "R-M-18802063-7",
-  "details_interstitial": "R-M-18802063-8"
+      "install_click_interstitial": "R-M-18802063-6",
+      "quiz_complete_interstitial": "R-M-18802063-7",
+      "details_interstitial": "R-M-18802063-8"
     },
     "rewarded_ids": {
       "search_rewarded": "R-M-18802063-13",
       "details_retry_rewarded": "R-M-18802063-14",
       "fun_quiz_rewarded": "R-M-18802063-15"
     },
-
     "home_native_interval": 4,
     "install_interstitial_interval": 3,
     "search_rewarded_interval": 2,
-
     "placements": {
       "home_banner": false,
       "home_native": false,
@@ -80,16 +76,13 @@
     "rewarded_id": "0xDEADBEEF_rewarded",
     "native_id": "0xDEADBEEF_native",
     "app_open_id": "0xDEADBEEF_appopen",
-
     "native_ids": {},
     "banner_ids": {},
     "interstitial_ids": {},
     "rewarded_ids": {},
-
     "home_native_interval": 4,
     "install_interstitial_interval": 3,
     "search_rewarded_interval": 2,
-
     "placements": {
       "home_banner": true,
       "home_native": true,
