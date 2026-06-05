@@ -52,7 +52,7 @@
     "search_rewarded_interval": 2,
 
     "placements": {
-      "home_banner": true,
+      "home_banner": false,
       "home_native": true,
       "home_fixed_native": true,
       "categories_native": true,
