@@ -61,7 +61,7 @@
       "details_retry_rewarded": true,
       "listing_native": true,
       "install_click_interstitial": true,
-      "onboarding_native": true,
+      "onboarding_native": false,
       "quiz_native": true,
       "quiz_banner": true,
       "quiz_complete_interstitial": true,
