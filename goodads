@@ -3,7 +3,7 @@
   "ads_enabled": true,
   "test_mode": false,
   "active_provider": "yandex",
-  "interstitial_interval_seconds": 30,
+  "interstitial_interval_seconds": 40,
   "app_open_cooldown_seconds": 300,
   "yandex_units": {
     "banner_id": "R-M-18802063-1",
