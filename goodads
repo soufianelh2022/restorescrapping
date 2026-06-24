@@ -48,8 +48,8 @@
       "home_banner": false,
       "home_native": false,
       "home_fixed_native": true,
-      "categories_native": true,
-      "categories_games_native": true,
+      "categories_native": false,
+      "categories_games_native": false,
       "categories_banner": true,
       "search_native": true,
       "search_results_native": true,
@@ -59,7 +59,7 @@
       "details_native": true,
       "details_banner": true,
       "details_retry_rewarded": true,
-      "listing_native": true,
+      "listing_native": false,
       "install_click_interstitial": true,
       "onboarding_native": false,
       "quiz_native": true,
@@ -67,7 +67,7 @@
       "quiz_complete_interstitial": true,
       "fun_quiz_rewarded": false,
       "app_open": true,
-      "exit_native": true
+      "exit_native": false
     }
   },
   "applovin_units": {
