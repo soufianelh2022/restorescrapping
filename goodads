@@ -3,8 +3,8 @@
   "ads_enabled": true,
   "test_mode": false,
   "active_provider": "yandex",
-  "interstitial_interval_seconds": 40,
-  "app_open_cooldown_seconds": 300,
+  "interstitial_interval_seconds": 75,
+  "app_open_cooldown_seconds": 120,
   "yandex_units": {
     "banner_id": "R-M-18802063-1",
     "interstitial_id": "R-M-18802063-3",
@@ -42,7 +42,7 @@
       "fun_quiz_rewarded": "R-M-18802063-15"
     },
     "home_native_interval": 4,
-    "install_interstitial_interval": 3,
+    "install_interstitial_interval": 5,
     "search_rewarded_interval": 2,
     "placements": {
       "home_banner": false,
@@ -50,10 +50,10 @@
       "home_fixed_native": true,
       "categories_native": false,
       "categories_games_native": false,
-      "categories_banner": true,
+      "categories_banner": false,
       "search_native": true,
       "search_results_native": true,
-      "settings_native": true,
+      "settings_native": false,
       "search_rewarded": true,
       "details_interstitial": true,
       "details_native": true,
@@ -65,7 +65,7 @@
       "quiz_native": true,
       "quiz_banner": true,
       "quiz_complete_interstitial": true,
-      "fun_quiz_rewarded": false,
+      "fun_quiz_rewarded": true,
       "app_open": true,
       "exit_native": false
     }
